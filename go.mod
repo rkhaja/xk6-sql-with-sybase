@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-sql
+module github.com/rkhaja/xk6-sql-with-sybase
 
 go 1.17
 
